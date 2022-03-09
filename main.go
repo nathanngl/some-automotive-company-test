@@ -22,6 +22,11 @@ func main() {
 		}
 	}
 
+	// this code below is the working sort
+	// sort.Slice(pokemons, func(i, j int) bool {
+	// 	return pokemons[i]["attackStats"].(float64) > pokemons[j]["attackStats"].(float64)
+	// })
+
 	for i := 0; i < len(pokemons); i++ {
 		fmt.Println(pokemons[i]["attackStats"], pokemons[i]["speciesName"])
 	}
