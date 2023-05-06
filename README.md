@@ -10,4 +10,4 @@
 `go run main.go`
 
 ## About
-It supposed to be done with nodejs way, but since I don't quite know they let me wrote it with go (tight time given :|, but got the job!)
+It supposed to be done with nodejs way, but since I don't quite know nodejs at that time, so they let me wrote it with go (tight time given :|, but got the job!)
